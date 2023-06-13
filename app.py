@@ -34,7 +34,7 @@ def prediction(age,creditscore,balance,estimated_salary,Gender,Geography,HasCrCa
 
 html_temp = """
     <div style ="background-color:yellow;padding:13px">
-    <h1 style ="color:black;text-align:center;">Streamlit Customer Churn Prediction ML App </h1>
+    <h1 style ="color:black;text-align:center;">Customer Churn Prediction ML App </h1>
     </div>
     """
 
